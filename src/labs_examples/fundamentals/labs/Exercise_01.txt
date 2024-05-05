@@ -1,4 +1,4 @@
-Fundamentals Exercise 1: CLI
+   Fundamentals Exercise 1: CLI
      Perform the following tasks using the CLI and copy and paste the commands and results below
 
      1. Navigate to CodingNomads folder (or the space you have create for this project)
@@ -22,4 +22,20 @@ Example Output:
     1. cd ~/Documents/CodingNomads/
     2. mkdir Terminal_testing
     3. //...
+
+My Output:
+1. cd ~/mnt/d/Coding Nomads/Documents/
+2. mkdir Terminal_testing
+3. cd Terminal_testing
+4. touch file_01.txt file_02.txt file_03.txt
+5. pwd
+6. ls -al
+7. mkdir New_folder
+8. cp file_01.txt New_folder
+9. mv file_02.txt New_folder
+10. rm file_01.txt
+11. rm -r New_folder
+12. vim file_01.txt
+13. cat file_01.txt
+14. grep "write" file_01.txt
 
