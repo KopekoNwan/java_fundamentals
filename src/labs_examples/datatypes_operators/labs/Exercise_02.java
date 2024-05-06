@@ -32,6 +32,8 @@ public class Exercise_02 {
         int num4 = (int) num3;
         System.out.println(num4);
 
+        //test for changes!
+
 
     }
 }
